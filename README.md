@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AuYang0w0
+- 👀 I’m interested in Electronics and Hardware
+- 🌱 I’m currently learning flutter
